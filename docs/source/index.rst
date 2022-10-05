@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Tutorial - HPC - DIKE UGM
+=========================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -13,10 +13,11 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-Contents
---------
-
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Tutorial
 
+   /tutorial/01-kubeflow-dasar
    usage
    api

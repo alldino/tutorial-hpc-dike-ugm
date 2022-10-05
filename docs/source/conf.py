@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Dokumentasi HPC - DIKE UGM'
+copyright = '2022, Departemen Ilmu Komputer dan Elektronika (DIKE) - UGM'
+author = 'alldino'
 
 release = '0.1'
 version = '0.1.0'
@@ -12,12 +12,15 @@ version = '0.1.0'
 # -- General configuration
 
 extensions = [
+    'sphinx.ext.autosectionlabel',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
 ]
+
+autosectionlabel_prefix_document = True
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
