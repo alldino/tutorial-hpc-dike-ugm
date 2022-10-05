@@ -13,6 +13,7 @@ Dokumentasi ini berisi panduan singkat penggunaan **High Performance Computing (
    :caption: Pengantar
 
    /pengantar/tentang
+   /pengantar/faq
 
 .. toctree::
    :maxdepth: 2
