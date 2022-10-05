@@ -1,17 +1,18 @@
-Tutorial - HPC - DIKE UGM
-=========================
+Selamat Datang di HPC - DIKE UGM
+================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Dokumentasi ini berisi panduan singkat penggunaan **High Performance Computing (HPC)** di **Departemen Ilmu Komputer dan Elektronika (DIKE)**, **Universitas Gadjah Mada**.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. bantuan::
 
-.. note::
+   Bila ada pertanyaan terkait dengan layanan HPC, mohon kontak langsung kepada bagian **Helpdesk HPC DIKE UGM**.
 
-   This project is under active development.
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Pengantar
+
+   /pengantar/tentang
 
 .. toctree::
    :maxdepth: 2
@@ -19,5 +20,4 @@ how to :ref:`installation` the project.
    :caption: Tutorial
 
    /tutorial/01-kubeflow-dasar
-..   usage
-..   api
+
