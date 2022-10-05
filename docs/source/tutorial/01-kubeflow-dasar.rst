@@ -1,7 +1,7 @@
 Tutorial 01 - Kubeflow Dasar 
 ============================
 
-.. note::
+.. warning::
 
     Mohon maaf masih dalam tahap perbaikan dan pembangunan! 
     Terima kasih ....

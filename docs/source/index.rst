@@ -19,5 +19,5 @@ how to :ref:`installation` the project.
    :caption: Tutorial
 
    /tutorial/01-kubeflow-dasar
-   usage
-   api
+..   usage
+..   api
