@@ -5,7 +5,7 @@ Dokumentasi ini berisi panduan singkat penggunaan **High Performance Computing (
 
 .. tip::
 
-   Bila ada pertanyaan terkait dengan layanan HPC, mohon kontak langsung kepada bagian **Helpdesk HPC DIKE UGM**.
+   Bila ada pertanyaan terkait dengan layanan HPC, mohon kontak langsung kepada bagian **Helpdesk HPC - DIKE UGM**.
 
 .. toctree::
    :maxdepth: 2
