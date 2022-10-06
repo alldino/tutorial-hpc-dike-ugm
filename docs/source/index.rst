@@ -18,7 +18,7 @@ Dokumentasi ini berisi panduan singkat penggunaan **High Performance Computing (
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Tutorial
+   :caption: Tutorial - 101
 
    /tutorial/01-kubeflow-dasar
 
