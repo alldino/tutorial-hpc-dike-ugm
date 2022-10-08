@@ -30,9 +30,24 @@ Langkah-langkah pengajuan permohonan:
 
     Halaman permohonan mahasiswa
     
-    **Pilih nama dosen**
+    ``**Pilih nama dosen**``
       diisikan dengan nama dosen pembimbing/penanggungjawab penelitian yang akan dilakukan. Untuk saat ini, dosen pembimbing ini adalah dosen Departemen Ilmu Komputer dan Elektronika UGM.
-    ****
+    ``**Judul Penelitian**`` 
+      diisikan dengan judul dari penelitian yang akan menggunakan BigBang.
+    ``**Deskripsi Penelitian**``
+      diisikan dengan deskripsi singkat dari penelitian yang akan dilakukan dan peruntukan penggunaan HPC.
+    ``**Tujuan Penggunaan HPC**``
+      diisikan dengan tipe penelitian yang akan menggunakan HPC, seperti Skripsi, Thesis, Disertasi, Lomba, Publikasi, dan sebagainya.
+    ``**Upload Surat Persetujuan Dosen**``
+      diisikan dengan surat permohonan penggunaan BigBang yang sudah diketahui oleh dosen pembimbing dalam format PDF.
+4.  Setelah semua diisikan, klik :guilabel:`**Submit**` untuk mengirimkan permohonan.
+5.  Permohonan yang sudah diajukan akan tampil di laman `**Dashboard** <https://hpc.dcseugm.id/mahasiswa>_` pada bagian :guilabel:`Request Status`.
+    .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
+    :width: 100%
+    :align: center
+    :alt: Halaman status permohonan mahasiswa  
+
+    Halaman status permohonan mahasiswa
 
 Dosen DIKE
 ----------
