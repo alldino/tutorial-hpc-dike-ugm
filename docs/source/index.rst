@@ -1,7 +1,7 @@
-Selamat Datang di HPC - DIKE UGM
-================================
+Selamat Datang di BigBang Wiki
+==============================
 
-Dokumentasi ini berisi panduan singkat penggunaan **High Performance Computing (HPC)** di **Departemen Ilmu Komputer dan Elektronika (DIKE)**, **Universitas Gadjah Mada**.
+Wiki ini adalah dokumentasi untuk BigBang, sistem **High Performance Computing (HPC)** di **Departemen Ilmu Komputer dan Elektronika (DIKE)**, **Universitas Gadjah Mada**. HPC ini dikelola oleh **Deep Learning Research Centre (DLRC)** di bawah departemen IKE. Saat ini, BigBang dapat digunakan oleh sivitas akademika Departemen Ilmu Komputer dan Elektronika, Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Gadjah Mada.
 
 .. tip::
 
