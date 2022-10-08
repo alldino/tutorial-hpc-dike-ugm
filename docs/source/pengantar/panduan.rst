@@ -10,8 +10,8 @@ Mahasiswa
 
 Dokumen yang harus dipersiapkan:
 
-*  Surat permohonan penggunaan BigBang yang diketahui oleh dosen pembimbing
-   `Template Surat Permohonan <https://hpc.dcseugm.id/mahasiswa/aktivasi_hpc/download>`_
+* Surat permohonan penggunaan BigBang yang diketahui oleh dosen pembimbing
+  `Template Surat Permohonan <https://hpc.dcseugm.id/mahasiswa/aktivasi_hpc/download>`_
 
 Langkah-langkah pengajuan permohonan:
 
