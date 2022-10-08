@@ -1,5 +1,7 @@
-Tentang HPC DIKE - UGM
-======================
+Tentang Deep Learning Research Centre (DLRC)
+============================================
+
+**Deep Learning Research Centre (DLRC)** adalah sebuah pusat riset di bidang **Deep Learning** dan aplikasinya dalam berbagai macam domain. Selain riset, DLRC secara rutin juga mengadakan pelatihan terkait Deep Learning dan penggunaan HPC.
 
 .. warning::
 
