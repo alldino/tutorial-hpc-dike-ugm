@@ -19,19 +19,20 @@ Langkah-langkah pengajuan permohonan:
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student01.png
-    :width: 100%
-    :align: center
-    :alt: Menu aktivasi mahasiswa  
+      :width: 100%
+      :align: center
+      :alt: Menu aktivasi mahasiswa  
 
-    Menu aktivasi mahasiswa
+      Menu aktivasi mahasiswa
+
 3.  Masukkan informasi yang diminta pada halaman permohonan aktivasi akun HPC.
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student02.png
-    :width: 100%
-    :align: center
-    :alt: Halaman permohonan mahasiswa  
+      :width: 100%
+      :align: center
+      :alt: Halaman permohonan mahasiswa  
 
-    Halaman permohonan mahasiswa
+      Halaman permohonan mahasiswa
     
     ``Pilih nama dosen``
       diisikan dengan nama dosen pembimbing/penanggungjawab penelitian yang akan dilakukan. Untuk saat ini, dosen pembimbing ini adalah dosen Departemen Ilmu Komputer dan Elektronika UGM.
@@ -47,12 +48,12 @@ Langkah-langkah pengajuan permohonan:
 5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
-    :width: 100%
-    :align: center
-    :alt: Halaman status permohonan mahasiswa  
+      :width: 100%
+      :align: center
+      :alt: Halaman status permohonan mahasiswa  
 
-    Halaman status permohonan mahasiswa
-
+      Halaman status permohonan mahasiswa
+      
 Dosen DIKE
 ----------
 
@@ -62,19 +63,20 @@ Langkah-langkah pengajuan permohonan:
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_DosenInternal.png
-    :width: 100%
-    :align: center
-    :alt: Menu aktivasi dosen internal  
+      :width: 100%
+      :align: center
+      :alt: Menu aktivasi dosen internal  
 
-    Menu aktivasi dosen internal
+      Menu aktivasi dosen internal
+
 3.  Masukkan informasi yang diminta pada halaman permohonan aktivasi akun HPC.
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_DosenInternal01.png
-    :width: 100%
-    :align: center
-    :alt: Halaman permohonan dosen internal  
+      :width: 100%
+      :align: center
+      :alt: Halaman permohonan dosen internal  
 
-    Halaman permohonan dosen internal
+      Halaman permohonan dosen internal
     
     ``Judul Penelitian`` 
       diisikan dengan judul dari penelitian yang akan menggunakan BigBang.
@@ -86,11 +88,11 @@ Langkah-langkah pengajuan permohonan:
 5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
-    :width: 100%
-    :align: center
-    :alt: Halaman status permohonan dosen internal  
+      :width: 100%
+      :align: center
+      :alt: Halaman status permohonan dosen internal  
 
-    Halaman status permohonan dosen internal
+      Halaman status permohonan dosen internal
 
 Dosen Kolaborator
 -----------------
@@ -100,19 +102,20 @@ Langkah-langkah pengajuan permohonan:
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student01.png
-    :width: 100%
-    :align: center
-    :alt: Menu aktivasi dosen kolaborator  
+      :width: 100%
+      :align: center
+      :alt: Menu aktivasi dosen kolaborator  
 
-    Menu aktivasi dosen kolaborator
+      Menu aktivasi dosen kolaborator
+
 3.  Masukkan informasi yang diminta pada halaman permohonan aktivasi akun HPC.
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student02.png
-    :width: 100%
-    :align: center
-    :alt: Halaman permohonan dosen kolaborator  
+      :width: 100%
+      :align: center
+      :alt: Halaman permohonan dosen kolaborator  
 
-    Halaman permohonan dosen kolaborator
+      Halaman permohonan dosen kolaborator
     
     ``Pilih nama dosen``
       diisikan dengan nama dosen internal UGM yang menjadi kolaborator penelitian yang akan dilakukan. Untuk saat ini, dosen pembimbing ini adalah dosen Departemen Ilmu Komputer dan Elektronika UGM.
@@ -128,11 +131,11 @@ Langkah-langkah pengajuan permohonan:
 5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
-    :width: 100%
-    :align: center
-    :alt: Halaman status permohonan dosen kolaborator  
+      :width: 100%
+      :align: center
+      :alt: Halaman status permohonan dosen kolaborator  
 
-    Halaman status permohonan dosen kolaborator
+      Halaman status permohonan dosen kolaborator
 
 
  
