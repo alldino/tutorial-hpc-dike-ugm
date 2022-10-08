@@ -19,7 +19,7 @@ Langkah-langkah pengajuan permohonan:
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student01.png
-      :width: 100%
+      :width: 50%
       :align: center
       :alt: Menu aktivasi mahasiswa  
 
@@ -63,7 +63,7 @@ Langkah-langkah pengajuan permohonan:
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_DosenInternal.png
-      :width: 100%
+      :width: 50%
       :align: center
       :alt: Menu aktivasi dosen internal  
 
@@ -102,7 +102,7 @@ Langkah-langkah pengajuan permohonan:
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student01.png
-      :width: 100%
+      :width: 50%
       :align: center
       :alt: Menu aktivasi dosen kolaborator  
 
