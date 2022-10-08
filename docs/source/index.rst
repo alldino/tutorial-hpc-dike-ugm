@@ -13,6 +13,7 @@ Wiki ini adalah dokumentasi untuk BigBang, sistem **High Performance Computing (
    :caption: Pengantar
 
    /pengantar/tentang
+   /pengantar/panduan
    /pengantar/faq
 
 .. toctree::
