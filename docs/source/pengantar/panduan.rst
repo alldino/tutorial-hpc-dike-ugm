@@ -5,7 +5,6 @@ Permohonan Penggunaan BigBang
   
   Untuk saat ini, BigBang hanya dapat digunakan oleh mahasiswa dan dosen Departemen Ilmu Komputer dan Elektronika UGM, serta dosen kolaborator. 
   
-
 Mahasiswa
 ---------
 
@@ -18,6 +17,7 @@ Langkah-langkah pengajuan permohonan:
 
 1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>`_ menggunakan ``NIU`` dan ``Password`` yang sudah teregistrasi.
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student01.png
     :width: 100%
     :align: center
@@ -25,6 +25,7 @@ Langkah-langkah pengajuan permohonan:
 
     Menu aktivasi mahasiswa
 3.  Masukkan informasi yang diminta pada halaman permohonan aktivasi akun HPC.
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student02.png
     :width: 100%
     :align: center
@@ -44,6 +45,7 @@ Langkah-langkah pengajuan permohonan:
       diisikan dengan surat permohonan penggunaan BigBang yang sudah diketahui oleh dosen pembimbing dalam format PDF.
 4.  Setelah semua diisikan, klik :guilabel:`Submit` untuk mengirimkan permohonan.
 5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
     :width: 100%
     :align: center
@@ -58,6 +60,7 @@ Langkah-langkah pengajuan permohonan:
 
 1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>`_ menggunakan ``NIP`` dan ``Password`` yang sudah teregistrasi.
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_DosenInternal.png
     :width: 100%
     :align: center
@@ -65,6 +68,7 @@ Langkah-langkah pengajuan permohonan:
 
     Menu aktivasi dosen internal
 3.  Masukkan informasi yang diminta pada halaman permohonan aktivasi akun HPC.
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_DosenInternal01.png
     :width: 100%
     :align: center
@@ -80,6 +84,7 @@ Langkah-langkah pengajuan permohonan:
       diisikan dengan tipe penelitian yang akan menggunakan HPC, seperti Skripsi, Thesis, Disertasi, Lomba, Publikasi, dan sebagainya.
 4.  Setelah semua diisikan, klik :guilabel:`Submit` untuk mengirimkan permohonan.
 5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
     :width: 100%
     :align: center
@@ -93,6 +98,7 @@ Dosen Kolaborator
 Langkah-langkah pengajuan permohonan:
 1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>`_ menggunakan ``NIP`` dan ``Password`` yang sudah teregistrasi.
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student01.png
     :width: 100%
     :align: center
@@ -100,6 +106,7 @@ Langkah-langkah pengajuan permohonan:
 
     Menu aktivasi dosen kolaborator
 3.  Masukkan informasi yang diminta pada halaman permohonan aktivasi akun HPC.
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student02.png
     :width: 100%
     :align: center
@@ -119,6 +126,7 @@ Langkah-langkah pengajuan permohonan:
       diisikan dengan surat permohonan penggunaan BigBang yang sudah diketahui oleh dosen pembimbing dalam format PDF.
 4.  Setelah semua diisikan, klik :guilabel:`Submit` untuk mengirimkan permohonan.
 5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
+    
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
     :width: 100%
     :align: center
