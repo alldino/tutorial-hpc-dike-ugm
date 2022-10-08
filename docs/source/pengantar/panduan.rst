@@ -10,12 +10,13 @@ Mahasiswa
 ---------
 
 Dokumen yang harus dipersiapkan:
+
 *  Surat permohonan penggunaan BigBang yang diketahui oleh dosen pembimbing
-   `Template Surat Permohonan <https://hpc.dcseugm.id/mahasiswa/aktivasi_hpc/download>_`
+   `Template Surat Permohonan <https://hpc.dcseugm.id/mahasiswa/aktivasi_hpc/download>`_
 
 Langkah-langkah pengajuan permohonan:
 
-1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>_` menggunakan ``NIU`` dan ``Password`` yang sudah teregistrasi.
+1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>`_ menggunakan ``NIU`` dan ``Password`` yang sudah teregistrasi.
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student01.png
     :width: 100%
@@ -42,7 +43,7 @@ Langkah-langkah pengajuan permohonan:
     ``Upload Surat Persetujuan Dosen``
       diisikan dengan surat permohonan penggunaan BigBang yang sudah diketahui oleh dosen pembimbing dalam format PDF.
 4.  Setelah semua diisikan, klik :guilabel:`Submit` untuk mengirimkan permohonan.
-5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>_` pada bagian :guilabel:`Request Status`.
+5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
     :width: 100%
     :align: center
@@ -55,7 +56,7 @@ Dosen DIKE
 
 Langkah-langkah pengajuan permohonan:
 
-1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>_` menggunakan ``NIP`` dan ``Password`` yang sudah teregistrasi.
+1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>`_ menggunakan ``NIP`` dan ``Password`` yang sudah teregistrasi.
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_DosenInternal.png
     :width: 100%
@@ -78,7 +79,7 @@ Langkah-langkah pengajuan permohonan:
     ``Tujuan Penggunaan HPC``
       diisikan dengan tipe penelitian yang akan menggunakan HPC, seperti Skripsi, Thesis, Disertasi, Lomba, Publikasi, dan sebagainya.
 4.  Setelah semua diisikan, klik :guilabel:`Submit` untuk mengirimkan permohonan.
-5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>_` pada bagian :guilabel:`Request Status`.
+5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
     :width: 100%
     :align: center
@@ -90,7 +91,7 @@ Dosen Kolaborator
 -----------------
 
 Langkah-langkah pengajuan permohonan:
-1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>_` menggunakan ``NIP`` dan ``Password`` yang sudah teregistrasi.
+1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>`_ menggunakan ``NIP`` dan ``Password`` yang sudah teregistrasi.
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student01.png
     :width: 100%
@@ -117,7 +118,7 @@ Langkah-langkah pengajuan permohonan:
     ``Upload Surat Persetujuan Dosen``
       diisikan dengan surat permohonan penggunaan BigBang yang sudah diketahui oleh dosen pembimbing dalam format PDF.
 4.  Setelah semua diisikan, klik :guilabel:`Submit` untuk mengirimkan permohonan.
-5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>_` pada bagian :guilabel:`Request Status`.
+5.  Permohonan yang sudah diajukan akan tampil di laman `Dashboard <https://hpc.dcseugm.id/mahasiswa>`_ pada bagian :guilabel:`Request Status`.
     .. figure:: /_static/gbr/pengantar/permohonan/Aktivasi_Student03.png
     :width: 100%
     :align: center
