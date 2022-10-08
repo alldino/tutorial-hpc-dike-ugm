@@ -98,6 +98,7 @@ Dosen Kolaborator
 -----------------
 
 Langkah-langkah pengajuan permohonan:
+
 1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>`_ menggunakan ``NIP`` dan ``Password`` yang sudah teregistrasi.
 2.  Pada sidebar bagian sebelah kiri, pilih :guilabel:`Submit Request` :guilabel:`>` :guilabel:`Aktivasi Akun HPC`
     
