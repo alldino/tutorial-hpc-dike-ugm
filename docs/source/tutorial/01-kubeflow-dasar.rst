@@ -97,24 +97,24 @@ Setelah :guilabel:`notebook` sudah terbentuk, untuk mengaksesnya klik tautan :gu
 #. :guilabel:`Console`
     berfungsi untuk menampilkan :guilabel:`terminal atau console` lingkungan khusus pemrograman ``Python``.
 #. :guilabel:`Others`
-    #. :guilabel:`Terminal`
+    * :guilabel:`Terminal`
         berfungsi mirip seperti :guilabel:`shell` atau :guilabel:`terminal command line`.
-    #. :guilabel:`Text File`
+    * :guilabel:`Text File`
         berfungsi mirip dengan :guilabel:`Editor` untuk berkas berbentuk ``Text`` atau ``*.txt``.
-    #. :guilabel:`Markdown File`
+    * :guilabel:`Markdown File`
         berfungsi mirip dengan :guilabel:`Editor` untuk berkas berbentuk ``Markdown`` atau ``*.md``.
-    #. :guilabel:`Python File`
+    * :guilabel:`Python File`
         berfungsi mirip dengan :guilabel:`Editor` untuk berkas berbentuk ``Python`` atau ``*.py``.
 #. :guilabel:`Menu Sidebar kiri`:
-    #. :guilabel:`File Browser`
+    * :guilabel:`File Browser`
         berfungsi untuk melihat isi ``file`` dan ``folder`` yang digunakan.
-    #. :guilabel:`Running Terminal and Kernel`
+    * :guilabel:`Running Terminal and Kernel`
         berfungsi untuk melihat daftar dan mematikan ``Terminal`` dan ``Kernel`` yang digunakan.
-    #. :guilabel:`Git`
+    * :guilabel:`Git`
         berfungsi untuk mengatur koneksi dan update berkas ``project`` yang disimpan pada *repository* ``http://github.com``.
-    #. :guilabel:`Table of Contents`
+    * :guilabel:`Table of Contents`
         berfungsi untuk menampilkan daftar isi dari suatu berkas ``notebook``.
-    #. :guilabel:`Extension Manager`
+    * :guilabel:`Extension Manager`
         berfungsi untuk menambahkan atau menghapus ``plugins`` yang digunakan pada **IDE** :guilabel:`JupyterLab`
 
 .. figure:: /_static/gbr/tutorial/01/jupyterlab.png
@@ -135,7 +135,7 @@ Menjalankan Notebook
 --------------------
 
 Berkas yang diperlukan dalam :guilabel:`Tutorial 01 - Kubeflow Dasar` ini dapat diunduh pada tautan berikut:
-|`TensorFlow 2 quickstart for experts Example <https://storage.googleapis.com/tensorflow_docs/docs/site/en/tutorials/quickstart/advanced.ipynb>`_
+|  `TensorFlow 2 quickstart for experts Example <https://storage.googleapis.com/tensorflow_docs/docs/site/en/tutorials/quickstart/advanced.ipynb>`_
 
 Berkas ``advanced.ipyb`` dapat diunggah dari komputer lokal ke **IDE** :guilabel:`JupyterLab` dengan cara melakukan ``drag dan drop`` pada berkas tersebut menuju bagian sidemenu :guilabel:`File Browser`. Buka berkas tersebut dan klik tombol :guilabel:`RUN` pada *toolbar* untuk mengeksekusi langkah-demi-langkah atau klik tombol :guilabel:`double-chevron (>>)` untuk mengeksekusi keseluruhan isi dari berkas ``advanced.ipyb``. 
 
@@ -152,19 +152,23 @@ Menampilkan Grafik dengan Tensorboard
 Visualisasi dari hasil eksperimen :guilabel:`notebook` dapat dilakukan dengan menggunakan :guilabel:`tensorboard`. :guilabel:`Tensorboard` menyediakan cara untuk memvisualisasikan eksperimen ML (*Machine Learning*) yang dijalankan, seperti melacak metrik kehilangan (*loss*) dan akurasi (*accuracy*) serta melihat histogram yang bias, bagan model, dan banyak lagi. Untuk informasi lebih lanjut tentang :guilabel:`tensorboard`, silakan kunjungi situs `tensorboard <https://www.tensorflow.org/tensorboard>`_.
 
 Sebagai contoh sederhana, silahkan gunakan kembali server :guilabel:`notebook` yang dibuat pada langkah sebelumnya. Hubungkan dan unggah :guilabel:`notebook` baru untuk :guilabel:`Tensorboard`. Sebelum diunggah silahkan unduh :guilabel:`notebook` berikut:
-|`Get started with TensorBoard <https://storage.googleapis.com/tensorflow_docs/tensorboard/docs/get_started.ipynb>`_
+|  `Get started with TensorBoard <https://storage.googleapis.com/tensorflow_docs/tensorboard/docs/get_started.ipynb>`_
 
 .. figure:: /_static/gbr/tutorial/01/tensorboard.png
     :width: 100%
     :align: center
-    :alt: Cara menampilkan grafik notebook  
+    :alt: Cara membuat tensorboard  
+    
+    Cara membuat tensorboard  
 
 Perhatikan alamat dari folder ``logs``. Lokasi ini diperlukan untuk pembuatan :guilabel:`Tensorboard`. Jalankan :guilabel:`notebook` dan pada halaman :guilabel:`Kubeflow`, buka menu :guilabel:`Tensorboards`. Klik tombol :guilabel:`New Tensorboard`. Beri ``nama`` misalnya ``logs-fit`` dan centang kotak ``PVC``. Pilih ``volume workspace notebook`` dari daftar drop-down dan pada bagian ``Mount Path``, masukkan alamat lokasi folder ``logs`` yang dicatat pada langkah sebelumnya. Dalam contoh ini adalah ``logs/fit``.
 
-.. figure:: /_static/gbr/tutorial/01/make-tensorboard.png
+.. figure:: /_static/gbr/tutorial/01/make_tensorboard.png
     :width: 100%
     :align: center
-    :alt: Cara menampilkan grafik notebook  
+    :alt: Cara konfigurasi tensorboard  
+    
+    Cara konfigurasi tensorboard  
 
 Klik tombol :guilabel:`Create` dan :guilabel:`Tensorboard` siap digunakan dalam beberapa menit. Amati tampilkan metrik dan grafik yang berbeda.
 
@@ -175,3 +179,5 @@ Klik tombol :guilabel:`Create` dan :guilabel:`Tensorboard` siap digunakan dalam 
 
     Cara menampilkan grafik notebook
 
+**Referensi:**
+|  `Kubeflow-Basics <https://charmed-kubeflow.io/docs/kubeflow-basics>`_
