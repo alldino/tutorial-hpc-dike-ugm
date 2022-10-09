@@ -1,5 +1,5 @@
-Tentang Deep Learning Research Centre (DLRC)
-============================================
+Tentang DLRC - UGM
+==================
 
 **Deep Learning Research Centre (DLRC)** adalah sebuah pusat riset di bidang **Deep Learning** dan aplikasinya dalam berbagai macam domain. Selain riset, DLRC secara rutin juga mengadakan pelatihan terkait Deep Learning dan penggunaan HPC.
 

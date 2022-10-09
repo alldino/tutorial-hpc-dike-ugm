@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Dokumentasi HPC - DIKE UGM'
+project = 'Dokumentasi BigBang - DRLC UGM'
 copyright = '2022, Departemen Ilmu Komputer dan Elektronika (DIKE) - UGM'
 author = 'alldino'
 
