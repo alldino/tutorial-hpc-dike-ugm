@@ -3,7 +3,7 @@ Permohonan Penggunaan BigBang
 
 .. note::
   
-  Untuk saat ini, BigBang hanya dapat digunakan oleh mahasiswa dan dosen Departemen Ilmu Komputer dan Elektronika UGM, serta dosen kolaborator. 
+  Untuk saat ini, BigBang hanya dapat digunakan oleh **mahasiswa** dan **dosen** Departemen Ilmu Komputer dan Elektronika UGM, serta **dosen kolaborator**. 
   
 Mahasiswa
 ---------

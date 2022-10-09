@@ -13,7 +13,7 @@ Halaman ini adalah dokumentasi untuk BigBang, sistem **High Performance Computin
    :caption: Pengantar
 
    /pengantar/tentang
-   /pengantar/panduan
+   /pengantar/permohonan
    /pengantar/faq
 
 .. toctree::
