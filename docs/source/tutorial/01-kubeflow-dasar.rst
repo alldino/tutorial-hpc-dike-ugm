@@ -1,12 +1,6 @@
 Tutorial 01 - Kubeflow Dasar 
 ============================
 
-.. warning::
-    :align: center
-
-    Mohon maaf masih dalam tahap perbaikan dan pembangunan! 
-    Terima kasih ....
-
 :guilabel:`Tutorial 01 - Kubeflow Dasar` ini ditujukkan kepada pengguna DGX-A100 agar lebih mudah dalam bekerja dan menggunakan fitur layanan dari antarmuka :guilabel:`Kubeflow` berbasis web.
 
 Apa itu Notebook Kubeflow?
@@ -136,7 +130,6 @@ Menjalankan Notebook
 --------------------
 
 Berkas yang diperlukan dalam :guilabel:`Tutorial 01 - Kubeflow Dasar` ini dapat diunduh pada tautan berikut:
-
 `TensorFlow 2 quickstart for experts Example <https://storage.googleapis.com/tensorflow_docs/docs/site/en/tutorials/quickstart/advanced.ipynb>`_
 
 Berkas ``advanced.ipyb`` dapat diunggah dari komputer lokal ke **IDE** :guilabel:`JupyterLab` dengan cara melakukan ``drag dan drop`` pada berkas tersebut menuju bagian sidemenu :guilabel:`File Browser`. Buka berkas tersebut dan klik tombol :guilabel:`RUN` pada *toolbar* untuk mengeksekusi langkah-demi-langkah atau klik tombol :guilabel:`double-chevron (>>)` untuk mengeksekusi keseluruhan isi dari berkas ``advanced.ipyb``. 
@@ -154,7 +147,6 @@ Menampilkan Grafik dengan Tensorboard
 Visualisasi dari hasil eksperimen :guilabel:`notebook` dapat dilakukan dengan menggunakan :guilabel:`tensorboard`. :guilabel:`Tensorboard` menyediakan cara untuk memvisualisasikan eksperimen ML (*Machine Learning*) yang dijalankan, seperti melacak metrik kehilangan (*loss*) dan akurasi (*accuracy*) serta melihat histogram yang bias, bagan model, dan banyak lagi. Untuk informasi lebih lanjut tentang :guilabel:`tensorboard`, silakan kunjungi situs `tensorboard <https://www.tensorflow.org/tensorboard>`_.
 
 Sebagai contoh sederhana, silahkan gunakan kembali server :guilabel:`notebook` yang dibuat pada langkah sebelumnya. Hubungkan dan unggah :guilabel:`notebook` baru untuk :guilabel:`Tensorboard`. Sebelum diunggah silahkan unduh :guilabel:`notebook` berikut:
-
 `Get started with TensorBoard <https://storage.googleapis.com/tensorflow_docs/tensorboard/docs/get_started.ipynb>`_
 
 .. figure:: /_static/gbr/tutorial/01/tensorboard.png
