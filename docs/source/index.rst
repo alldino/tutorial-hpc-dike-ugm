@@ -13,6 +13,7 @@ Halaman ini adalah dokumentasi untuk :guilabel:`BigBang`, sistem **High Performa
    :caption: Pengantar
 
    /pengantar/tentang
+   /pengantar/bigbang
    /pengantar/permohonan
    /pengantar/faq
 
