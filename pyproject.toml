@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "Dokumentasi BigBang - DRLC UGM"
+name = "Dokumentasi DRLC - UGM"
 authors = [{name = "alldino", email = "b.alldino.as@ugm.ac.id"}]
 dynamic = ["version", "description"]
