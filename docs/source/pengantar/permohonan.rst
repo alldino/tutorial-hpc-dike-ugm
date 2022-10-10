@@ -128,9 +128,9 @@ Berikut adalah langkah-langkah untuk registrasi:
     .. figure:: /_static/gbr/pengantar/permohonan/Registrasi_DosenInternal.png
       :width: 100%
       :align: center
-      :alt: Form pendaftaran akun untuk dosen
+      :alt: Form pendaftaran akun untuk dosen DIKE
 
-      Form pendaftaran akun untuk dosen
+      Form pendaftaran akun untuk dosen DIKE
 
     ``Name``
       diisikan dengan nama lengkap.
@@ -208,6 +208,54 @@ Langkah-langkah pengajuan permohonan:
 
 Dosen Kolaborator
 -----------------
+
+Registrasi
+~~~~~~~~~~
+
+Berikut adalah langkah-langkah untuk registrasi:
+
+1.  Setelah klik :guilabel:`Create an Account` pada Halaman Utama, klik :guilabel:`Dosen`.
+    
+    .. figure:: /_static/gbr/pengantar/permohonan/Registrasi_DosenEksternal.png
+      :width: 100%
+      :align: center
+      :alt: Form pendaftaran akun untuk dosen non-DIKE
+
+      Form pendaftaran akun untuk dosen non-DIKE
+
+    ``Name``
+      diisikan dengan nama lengkap.
+    ``Email Address`` 
+      diisikan dengan alamat email aktif.
+    ``Nomor HP``
+      diisikan dengan nomor HP yang dapat dihubungi.
+    ``NIP``
+      diisikan dengan NIP yang terdiri atas 18 digit.
+    ``DIKE atau Non-DIKE``
+      diisikan dengan memilih ``Non-DIKE``.
+    ``Program Studi``
+      diisikan dengan program studi saat ini.
+    ``Password``
+      diisikan dengan password untuk login nantinya.
+    ``Confirm Password``
+      diisikan dengan password yang sama dengan isian pada ``Password``.
+    ``Upload Pas Foto``
+      diisikan dengan pas foto saat ini.
+
+2.  Isikan data yang sesuai pada form tersebut. Jangan lupa untuk mengunggah file pas foto.
+
+3.  Cek semua isian. Apabila telah sesuai, klik tombol :guilabel:`Registrasi Akun`.
+
+4.  Apabila berhasil, maka akan muncul tampilan seperti berikut.
+
+    .. figure:: /_static/gbr/pengantar/permohonan/Registrasi_Dosen_Success.png
+      :width: 80%
+      :align: center
+      :alt: Registrasi akun dosen berhasil
+
+      Registrasi akun dosen berhasil
+
+5.  Setelah berhasil, silakan login dengan menggunakan ``NIP`` dan ``Password`` yang benar.
 
 Pengajuan Penggunaan BigBang
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
