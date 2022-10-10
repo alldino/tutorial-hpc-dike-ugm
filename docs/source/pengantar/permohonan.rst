@@ -118,6 +118,9 @@ Langkah-langkah pengajuan permohonan:
 Dosen DIKE
 ----------
 
+Pengajuan Penggunaan BigBang
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Langkah-langkah pengajuan permohonan:
 
 1.  Masuk ke dalam `sistem permohonan BigBang <https://hpc.dcseugm.id/>`_ menggunakan ``NIP`` dan ``Password`` yang sudah teregistrasi.
@@ -157,6 +160,9 @@ Langkah-langkah pengajuan permohonan:
 
 Dosen Kolaborator
 -----------------
+
+Pengajuan Penggunaan BigBang
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Langkah-langkah pengajuan permohonan:
 
