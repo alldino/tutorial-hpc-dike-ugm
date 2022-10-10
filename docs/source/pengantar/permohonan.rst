@@ -4,6 +4,16 @@ Permohonan Penggunaan BigBang
 .. note::
   
   Untuk saat ini, BigBang hanya dapat digunakan oleh **mahasiswa** dan **dosen** Departemen Ilmu Komputer dan Elektronika UGM, serta **dosen kolaborator**. 
+
+Sebelum diberikan akses ke BigBang, baik itu BigBang Solis ataupun BigBang Luna, setiap user harus mendaftarkan diri terlebih dahulu melalui Sistem Informasi HPC yang beralamat di https://hpc.dcseugm.id/.Untuk membuat akun baru, klik link :guilabel: `Create an Account` :guilabel:. Apabila telah memiliki akun, dapat langsung mengisikan kredensial (NIU atau NIP) beserta password, lalu klik tombol :guilabel: `Login` :guilabel:
+
+.. figure:: /_static/gbr/pengantar/permohonan/Homepage.png
+      :width: 50%
+      :align: center
+      :alt: Halaman utama
+
+      Halaman utama
+
   
 Mahasiswa
 ---------
