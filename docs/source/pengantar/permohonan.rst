@@ -66,8 +66,8 @@ Berikut adalah langkah-langkah untuk registrasi:
 
 5.  Setelah berhasil, silakan login dengan menggunakan ``NIU`` dan ``Password`` yang benar.
 
-Pengajuan Penggunakan BigBang
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pengajuan Penggunaan BigBang
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dokumen yang harus dipersiapkan:
 
