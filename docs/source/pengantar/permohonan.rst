@@ -5,7 +5,7 @@ Permohonan Penggunaan BigBang
   
   Untuk saat ini, BigBang hanya dapat digunakan oleh **mahasiswa** dan **dosen** Departemen Ilmu Komputer dan Elektronika UGM, serta **dosen kolaborator**. 
 
-Sebelum diberikan akses ke BigBang, baik itu BigBang Solis ataupun BigBang Luna, setiap user harus mendaftarkan diri terlebih dahulu melalui Sistem Informasi HPC yang beralamat di https://hpc.dcseugm.id/. Untuk membuat akun baru, klik link :guilabel:`Create an Account`. Apabila telah memiliki akun, dapat langsung mengisikan kredensial (NIU atau NIP) beserta password, lalu klik tombol :guilabel: `Login`.
+Sebelum diberikan akses ke BigBang, baik itu BigBang Solis ataupun BigBang Luna, setiap user harus mendaftarkan diri terlebih dahulu melalui Sistem Informasi HPC yang beralamat di https://hpc.dcseugm.id/. Untuk membuat akun baru, klik link :guilabel:`Create an Account`. Apabila telah memiliki akun, dapat langsung mengisikan kredensial (``NIU`` atau ``NIP``) beserta password, lalu klik tombol :guilabel:`Login`.
 
 .. figure:: /_static/gbr/pengantar/permohonan/Homepage.png
       :width: 90%
@@ -17,6 +17,57 @@ Sebelum diberikan akses ke BigBang, baik itu BigBang Solis ataupun BigBang Luna,
   
 Mahasiswa
 ---------
+
+Registrasi
+~~~~~~~~~~
+
+Berikut adalah langkah-langkah untuk registrasi:
+
+1.  Setelah klik :guilabel:`Create an Account` pada Halaman Utama, klik :guilabel:`Mahasiswa`.
+    
+    .. figure:: /_static/gbr/pengantar/permohonan/Registrasi_Student.png
+      :width: 100%
+      :align: center
+      :alt: Form pendaftaran akun untuk mahasiswa  
+
+      Form pendaftaran akun untuk mahasiswa
+
+    ``Name``
+      diisikan dengan nama lengkap.
+    ``Email Address`` 
+      diisikan dengan alamat email aktif.
+    ``Nomor HP``
+      diisikan dengan nomor HP yang dapat dihubungi.
+    ``NIM Lengkap``
+      diisikan dengan NIM lengkap dengan format ``AA/BBBBBB/CC/DDDDD``.
+    ``Program Studi``
+      diisikan dengan program studi saat ini, terdapat pilihan yang sudah ada: S1 Ilmu Komputer, S2 Ilmu Komputer, S3 Ilmu Komputer, S1 Elektronika dan Instrumentasi, atau S2 Kecerdasan Artificial. Bisa juga diisi secara manual di luar opsi tersebut.
+    ``Password``
+      diisikan dengan password untuk login nantinya.
+    ``Confirm Password``
+      diisikan dengan password yang sama dengan isian pada ``Password``.
+    ``Upload Pas Foto``
+      diisikan dengan pas foto saat ini.
+    ``Upload Foto KTM``
+      diisikan dengan foto KTM yang aktif.
+
+2.  Isikan data yang sesuai pada form tersebut. Jangan lupa untuk mengunggah file pas foto dan foto KTM.
+
+3.  Cek semua isian. Apabila telah sesuai, klik tombol :guilabel:`Registrasi Akun`.
+
+4.  Apabila berhasil, maka akan muncul tampilan seperti berikut.
+
+    .. figure:: /_static/gbr/pengantar/permohonan/Registrasi_Student_Success.png
+      :width: 80%
+      :align: center
+      :alt: Registrasi akun mahasiswa berhasil  
+
+      Registrasi akun mahasiswa berhasil
+
+5.  Setelah berhasil, silakan login dengan menggunakan ``NIU`` dan ``Password`` yang benar.
+
+Pengajuan Penggunakan BigBang
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dokumen yang harus dipersiapkan:
 
