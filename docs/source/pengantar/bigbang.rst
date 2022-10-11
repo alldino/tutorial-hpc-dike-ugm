@@ -43,7 +43,7 @@ BigBang **Luna** dimiliki oleh DIKE di akhir tahun 2021 dengan spesifikasi sebag
     * OS: 2x 1.92TB M.2 NVME drives 
     * Internal Storage: 15TB (4x 3.84TB) U.2 NVME drives
 
-**Software**
+:guilabel:`Software`
     * DGX OS 5.4 (Ubuntu Linux OS ``20.04.4``)
     * Nvidia-Driver version ``470.141.03``
     * CUDA version ``11.4``
