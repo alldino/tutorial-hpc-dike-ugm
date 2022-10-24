@@ -9,7 +9,7 @@ BigBang Luna
 
   User yang akan menggunakan BigBang Luna, harus memastikan kode yang akan di-running sudah free dari error. Sehingga bisa memaksimalkan slot waktu yang diberikan.
 
-BigBang Luna, dialokasikan penggunaannya untuk dosen DIKE, dosen kolaborator serta mahasiswa pascasarjana (S2 ILKOM/S2 MKA/S3 ILKOM) di lingkungan Departemen Ilmu Komputer dan Elektronika. Untuk menggunakan fasilitas ini, user harus mendaftar terlebih dahulu melalui SI HPC (silahkan cek step-stepnya di bagian `Permohonan <https://tutorial-hpc-dike-ugm.readthedocs.io/en/stable/pengantar/permohonan.html>`_). Berikut ini adalah SOP penggunaan BigBang Luna
+BigBang Luna, dialokasikan penggunaannya untuk dosen DIKE, dosen kolaborator serta mahasiswa pascasarjana (S2 ILKOM/S2 MKA/S3 ILKOM) di lingkungan Departemen Ilmu Komputer dan Elektronika, FMIPA, UGM. Untuk menggunakan fasilitas ini, user harus mendaftar terlebih dahulu melalui SI HPC (silahkan cek step-stepnya di bagian `Permohonan <https://tutorial-hpc-dike-ugm.readthedocs.io/en/stable/pengantar/permohonan.html>`_). Berikut ini adalah SOP penggunaan BigBang Luna
 
   * By default, setiap user akan mendapatkan 1 GPU, 24 Core CPU, memory 64 GB dan storage 20GB 
   * Maksimal penggunaan resource adalah 3 hari kalender (3x24 jam). Waktu dihitung mulai dari diberikan akses ke fasilitas.
