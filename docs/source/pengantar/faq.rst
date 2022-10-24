@@ -1,7 +1,7 @@
 Frequently Asked Questions (FAQ)
 ================================
 
-.. warning::
+.. note::
 
    FQA akan terus diupdate
 
