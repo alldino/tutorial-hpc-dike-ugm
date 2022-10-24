@@ -5,7 +5,7 @@ Standard Operating Procedure Penggunaan Fasilitas BigBang
 BigBang Luna
 ------------
 
-Note
+.. note::
 
 User yang akan menggunakan BigBang Luna, harus memastikan kodingan sudah berjalan dengan lancar/tanpa error. Sehingga bisa memaksimalkan slot waktu yang diberikan.
 
