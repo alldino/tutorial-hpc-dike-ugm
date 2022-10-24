@@ -7,7 +7,7 @@ BigBang Luna
 
 .. note::
 
-  User yang akan menggunakan BigBang Luna, harus memastikan kode yang akan dirunning di fasilitas BigBang sudah berjalan dengan lancar/tanpa error. Sehingga bisa memaksimalkan slot waktu yang diberikan.
+  User yang akan menggunakan BigBang Luna, harus memastikan kode yang akan dirunning sudah berjalan dengan lancar/tanpa error. Sehingga bisa memaksimalkan slot waktu yang diberikan.
 
 BigBang Luna, dialokasikan penggunaannya untuk dosen DIKE, dosen kolaborator serta mahasiswa pascasarjana (S2 ILKOM/S2 MKA/S3 ILKOM) di lingkungan Departemen Ilmu Komputer dan Elektronika. Untuk menggunakan fasilitas ini, user harus mendaftar terlebih dahulu melalui SI HPC (silahkan cek step-stepnya di bagian `Permohonan <https://tutorial-hpc-dike-ugm.readthedocs.io/en/stable/pengantar/permohonan.html>`_). Berikut ini adalah SOP penggunaan BigBang Luna
 
