@@ -14,6 +14,7 @@ Halaman ini adalah dokumentasi untuk :guilabel:`BigBang`, sistem **High Performa
 
    /pengantar/tentang
    /pengantar/bigbang
+   /pengantar/SOP
    /pengantar/permohonan
    /pengantar/faq
 
