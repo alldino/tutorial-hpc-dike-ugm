@@ -3,7 +3,7 @@ Frequently Asked Questions (FAQ)
 
 .. note::
 
-   FQA akan terus diupdate
+   FAQ akan terus diupdate
 
 Saya bukan civitas akademika UGM, apakah saya bisa ikut menggunakan fasilitas BigBang?
 --------------------------------------------------------------------------------------
