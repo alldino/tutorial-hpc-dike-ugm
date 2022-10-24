@@ -13,7 +13,7 @@ BigBang Luna, dialokasikan penggunaannya untuk dosen DIKE, dosen kolaborator ser
 
   * By default, setiap user akan mendapatkan 1 GPU, 24 Core CPU, memory 64 GB dan storage 20GB 
   * Maksimal penggunaan resource adalah 3 hari kalender (3x24 jam)
-  * Pada masa penggunaan, setiap harinya user perlu mensubmit progress report via link berikut (`Submit Progress Report <https://forms.gle/YLfYg9ejvCh7BnQP8>`_). (`Template Progress Report <https://drive.google.com/drive/folders/1MioBtrDfGvee6QQMP_LyqgVNACZ3qz-Y?usp=sharing>`_)
+  * Pada masa penggunaan, setiap harinya user perlu mensubmit progress report via link berikut `Submit Progress Report <https://forms.gle/YLfYg9ejvCh7BnQP8>`_. Report ditulis dengan menggunakan `Template Progress Report <https://drive.google.com/drive/folders/1MioBtrDfGvee6QQMP_LyqgVNACZ3qz-Y?usp=sharing>`_ ini.
   * Setiap harinya, penggunaan BigBang Luna akan dimonitor apakah idle/utilitas rendah
   * Jika idle/utilitas rendah pada saat monitoring dan belum mensubmit progress report sampai pukul 23.00, maka service akan didisable per pukul 10.00 (di hari dan jam kerja berikutnya)
   * Jika user yang sudah menggunakan resource selama 3 hari  dan aktif mengupload progress report, meminta tambahan waktu, maka akan dicek:
