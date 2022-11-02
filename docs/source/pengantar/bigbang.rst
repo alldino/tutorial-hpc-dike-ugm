@@ -49,11 +49,17 @@ BigBang **Luna** dimiliki oleh DIKE di akhir tahun 2021 dengan spesifikasi sebag
     * CUDA version ``11.4``
     * NVIDIA Deepops version ``22.08`` 
     * Kubernetes version ``1.24.4``
-    * Kubeflow version ``v1.6.0``
-    * Standard Image (Repo docker.io):
-        * kubeflownotebookswg/jupyter-tensorflow-cuda-full:v1.6.0 (Cuda version ``11.2``)
-        * kubeflownotebookswg/jupyter-pytorch-cuda-full:v1.6.0
-        * kubeflownotebookswg/rstudio-tidyverse:v1.6.0
-        * kubeflownotebookswg/codeserver-python:v1.6.0
-        * kubeflownotebookswg/tensorboards-web-app:v1.6.0
+    * Kubeflow version ``v1.6.1``
+    * Standard Image (repo dari ``https://docker.io``):
+        * kubeflownotebookswg/jupyter-tensorflow-cuda-full:v1.6.1 (Cuda version ``11.2``)
+        * kubeflownotebookswg/jupyter-pytorch-cuda-full:v1.6.1
+        * kubeflownotebookswg/rstudio-tidyverse:v1.6.1
+        * kubeflownotebookswg/codeserver-python:v1.6.1
+        * kubeflownotebookswg/tensorboards-web-app:v1.6.1
+    * Custom Image 
+        * https://hub.docker.com/r/kubeflownotebookswg/jupyter-pytorch-cuda-full/tags
+        * https://hub.docker.com/r/kubeflownotebookswg/jupyter-tensorflow-cuda-full/tags
+        * public.ecr.aws/kubeflow-on-aws/notebook-servers/jupyter-tensorflow:2.9.1-gpu-py39-cu112-ubuntu20.04-e3-v1.2-2022-09-20
+        * public.ecr.aws/kubeflow-on-aws/notebook-servers/jupyter-pytorch:1.12.0-gpu-py38-cu116-ubuntu20.04-ec2-2022-09-20
+
     
