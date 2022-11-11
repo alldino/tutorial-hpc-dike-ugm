@@ -80,7 +80,7 @@ Selanjutnya spesifikasi yang digunakan yaitu :guilabel:`CPU` ``= 8 core``, :guil
     :align: center
     :alt: Cara membuat notebook  
 
-    Cara membuat notebook
+    Cara membuat notebook [klik pada gambar untuk memperbesar/memperjelas]
 
 Mengakses Notebook
 ------------------
@@ -124,7 +124,7 @@ Setelah :guilabel:`notebook` sudah terbentuk, untuk mengaksesnya klik tautan :gu
     :align: center
     :alt: Cara mengakses notebook  
 
-    Cara mengakses notebook
+    Cara mengakses notebook [klik pada gambar untuk memperbesar/memperjelas]
 
 Menjalankan Notebook
 --------------------
@@ -139,7 +139,7 @@ Berkas ``advanced.ipyb`` dapat diunggah dari komputer lokal ke **IDE** :guilabel
     :align: center
     :alt: Cara menjalankan notebook  
 
-    Cara menjalankan notebook
+    Cara menjalankan notebook [klik pada gambar untuk memperbesar/memperjelas]
 
 Menampilkan Grafik dengan Tensorboard
 -------------------------------------
@@ -154,7 +154,7 @@ Sebagai contoh sederhana, silahkan gunakan kembali server :guilabel:`notebook` y
     :align: center
     :alt: Cara membuat tensorboard  
     
-    Cara membuat tensorboard  
+    Cara membuat tensorboard 
 
 Perhatikan alamat dari folder ``logs``. Lokasi ini diperlukan untuk pembuatan :guilabel:`Tensorboard`. Jalankan :guilabel:`notebook` dan pada halaman :guilabel:`Kubeflow`, buka menu :guilabel:`Tensorboards`. Klik tombol :guilabel:`New Tensorboard`. Beri ``nama`` misalnya ``logs-fit`` dan centang kotak ``PVC``. Pilih ``volume workspace notebook`` dari daftar drop-down dan pada bagian ``Mount Path``, masukkan alamat lokasi folder ``logs`` yang dicatat pada langkah sebelumnya. Dalam contoh ini adalah ``logs/fit``.
 
@@ -172,7 +172,7 @@ Klik tombol :guilabel:`Create` dan :guilabel:`Tensorboard` siap digunakan dalam 
     :align: center
     :alt: Cara menampilkan grafik notebook  
 
-    Cara menampilkan grafik notebook
+    Cara menampilkan grafik notebook [klik pada gambar untuk memperbesar/memperjelas]
 
 **Referensi:**
 `Kubeflow-Basics <https://charmed-kubeflow.io/docs/kubeflow-basics>`_
