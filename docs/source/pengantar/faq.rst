@@ -17,3 +17,6 @@ Apakah script program yang dijalankan pada jupyter notebook didalam layanan kube
 ----------------------------------------------------------------------------------------------------------------------------------
 Script program notebook yang disimpan dalam berkas *.ipyb* yang masih terbuka dalam bentuk tab dan dalam proses dijalankan didalam lingkungan jupyter notebook - kubeflow **akan tetap berjalan**, walau jendela tab browser jupyter notebook ditutup. Jadi pengguna tidak usah khawatir untuk meninggalkan/menutup/mematikan browser/komputer yang digunakan untuk mengakses layanan kubeflow. 
 
+Bagaimana bila GPU tidak terdeteksi pada jupyter notebook?
+----------------------------------------------------------
+Bila mengalami kendala GPU tidak terdeteksi, dimohon untuk melakukan ``restart`` atau ``stop dan start`` notebook pada menu :guilabel:`Notebook` dari layanan :guilabel:`kubeflow`. Kemudian silakan pastikan kembali GPU yang digunakan terdeteksi dengan menggunakan perintah ``nvidia-smi`` pada jendela :guilabel:`terminal` dari jupyter notebook.
