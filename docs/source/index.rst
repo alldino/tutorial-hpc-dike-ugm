@@ -16,7 +16,12 @@ Halaman ini adalah dokumentasi untuk :guilabel:`BigBang`, sistem **High Performa
    /pengantar/bigbang
    /pengantar/SOP
    /pengantar/permohonan
-   /pengantar/faq
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Frequently Asked Questions (FAQ)
+   /faq/faq
 
 .. toctree::
    :maxdepth: 2
