@@ -20,7 +20,8 @@ Halaman ini adalah dokumentasi untuk :guilabel:`BigBang`, sistem **High Performa
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Frequently Asked Questions
+   :caption: Frequently Asked Questions (FAQ)
+
    /faq/faq
 
 .. toctree::
