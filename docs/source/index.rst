@@ -5,7 +5,7 @@ Halaman ini adalah dokumentasi untuk :guilabel:`BigBang`, sistem **High Performa
 
 .. tip::
 
-   Bila ada pertanyaan terkait dengan layanan HPC, mohon kontak langsung kepada bagian **Helpdesk HPC - DIKE UGM** melalui dlrc.ugm@gmail.com.
+   Bila ada pertanyaan terkait dengan layanan HPC, mohon kontak langsung kepada bagian **Helpdesk HPC - DIKE UGM** melalui dlrcugm@gmail.com.
 
 .. toctree::
    :maxdepth: 2
