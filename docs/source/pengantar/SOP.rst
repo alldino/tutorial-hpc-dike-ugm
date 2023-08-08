@@ -19,8 +19,8 @@ BigBang Luna
   
       1. Ada ``slot kosong/tidak``
       2. Ada ``antrian atau tidak`` 
-      3. Jika ``ada slot kosong/tidak ada antrian``, bisa **diperpanjang** dengan mempertimbangkan progress, akan ditambahkan 3 hari lagi.
-  * **Pengajuan tambahan waktu** bisa dilakukan dengan mengisi poin **perpanjangan waktu** ketika mensubmit progress report di hari ke-3.
+      3. Jika ``ada slot kosong/tidak ada antrian``, bisa **diperpanjang** dengan mempertimbangkan progress, akan ditambahkan 2 hari lagi.
+  * **Pengajuan tambahan waktu** bisa dilakukan dengan mengisi poin **perpanjangan waktu** ketika mensubmit progress report di hari ke-2.
   * Setelah 2 hari pemakaian, user akan menerima **notifikasi via e-mail** jika masa pemakaian sudah ``habis`` dan akun akan **di-disable**.
   * Jika 8 slot user DGX sudah **full**, dan ada **request user baru**, maka request akan masuk :guilabel:`antrian list`` dengan **sistem FCFS (First Come First Serve)**.
   * Jika terjadi ``mati listrik/masalah teknis lain``, admin **tidak bertanggung jawab** terhadap data/kode yang sedang dirunning, sehingga user harus melakukan backup sesering mungkin.
