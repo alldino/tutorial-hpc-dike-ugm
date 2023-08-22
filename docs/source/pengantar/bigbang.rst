@@ -48,14 +48,14 @@ BigBang **Luna** dimiliki oleh DIKE di akhir tahun 2021 dengan spesifikasi sebag
     * Nvidia-Driver version ``470.141.03``
     * CUDA version ``11.4``
     * NVIDIA Deepops version ``22.08`` 
-    * Kubernetes version ``1.24.4``
-    * Kubeflow version ``v1.6.1``
+    * Kubernetes version ``1.23.4``
+    * Kubeflow version ``v1.6.0``
     * Standard Image (repo dari ``https://docker.io``):
-        * kubeflownotebookswg/jupyter-tensorflow-cuda-full:v1.6.1 (Cuda version ``11.2``)
-        * kubeflownotebookswg/jupyter-pytorch-cuda-full:v1.6.1
-        * kubeflownotebookswg/rstudio-tidyverse:v1.6.1
-        * kubeflownotebookswg/codeserver-python:v1.6.1
-        * kubeflownotebookswg/tensorboards-web-app:v1.6.1
+        * kubeflownotebookswg/jupyter-tensorflow-cuda-full:v1.6.0 (Cuda version ``11.2``)
+        * kubeflownotebookswg/jupyter-pytorch-cuda-full:v1.6.0
+        * kubeflownotebookswg/rstudio-tidyverse:v1.6.0
+        * kubeflownotebookswg/codeserver-python:v1.6.0
+        * kubeflownotebookswg/tensorboards-web-app:v1.6.0
     * Custom Image 
         * https://hub.docker.com/r/kubeflownotebookswg/jupyter-pytorch-cuda-full/tags
         * https://hub.docker.com/r/kubeflownotebookswg/jupyter-tensorflow-cuda-full/tags
